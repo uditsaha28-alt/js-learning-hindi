@@ -1,0 +1,10 @@
+const number=1234.56
+console.log(number.toPrecision(4))
+const n1=120000000
+console.log(n1.toFixed(5))
+console.log(n1.toLocaleString())
+console.log(Math)
+console.log(Math.floor(3.7))
+console.log(Math.pow(2,3))
+console.log(Math.max(2,3,4,5))
+console.log(Math.min(2,3,4,5))
